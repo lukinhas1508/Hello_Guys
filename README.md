@@ -1,7 +1,3 @@
-Claro! Aqui está a bio com "Olá! Eu sou Lucas" em destaque:
-
----
-
 ### **OLÁ! EU SOU LUCAS**  
 🎓 Estudante de Ciências da Computação na UNIP  
 💻 Apaixonado por tecnologia, desenvolvimento e resolução de problemas  
