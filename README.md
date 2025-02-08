@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Eu sou Lucas
 
-<!--
-**lukinhas1508/lukinhas1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciências da Computação na UNIP
+💻 Apaixonado por tecnologia, desenvolvimento e resolução de problemas
+📊 Interessado em áreas de interesse, como Cibersegurança, Data Science, Desenvolvimento de Software, Cloud Computing e AWS.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔹 Linguagens: Python, Java, SQL
+- 📊 Ferramentas: Power BI, Excel
+- 🔐 Cibersegurança: Santander Bootcamp Cibersegurança #2
+- 🔧 Outras tecnologias: Kali Linux, Git
+
+##  Contato
+
+📧 Email: lucasdbernardes0306@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/lucas-dias-bernardes-95216124b
+
+🐙 GitHub: https://github.com/lukinhas1508
+
+Sempre em busca de novos desafios e aprendizado! 🚀
