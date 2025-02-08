@@ -1,4 +1,8 @@
-**Olá! Eu sou Lucas**  
+Claro! Aqui está a bio com "Olá! Eu sou Lucas" em destaque:
+
+---
+
+### **OLÁ! EU SOU LUCAS**  
 🎓 Estudante de Ciências da Computação na UNIP  
 💻 Apaixonado por tecnologia, desenvolvimento e resolução de problemas  
 📊 Interessado em Cibersegurança, Data Science, Desenvolvimento de Software, Cloud Computing e AWS
@@ -15,8 +19,8 @@
 
 **Contato**  
 📧 **Email**: lucasdbernardes0306@gmail.com  
-🔗 **LinkedIn**: https://www.linkedin.com/in/lucas-dias-bernardes  
-🐙 **GitHub**: https://github.com/lukinhas1508
+🔗 **LinkedIn**: [linkedin.com/in/lucas-dias-bernardes-95216124b](https://www.linkedin.com/in/lucas-dias-bernardes-95216124b)  
+🐙 **GitHub**: [github.com/lukinhas1508](https://github.com/lukinhas1508)
 
 ---
 
