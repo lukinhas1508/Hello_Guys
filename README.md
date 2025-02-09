@@ -13,10 +13,9 @@
 
 ---
 
-**Contato**  
-📧 **Email**: lucasdbernardes0306@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/lucas-dias-bernardes-95216124b](https://www.linkedin.com/in/lucas-dias-bernardes-95216124b)  
-🐙 **GitHub**: [github.com/lukinhas1508](https://github.com/lukinhas1508)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=red)](https://www.linkedin.com/in/lucas-dias-bernardes-95216124b/?originalSubdomain=br)  
+ 
+
 
 ---
 
