@@ -9,7 +9,9 @@
 **🚀 Habilidades e Tecnologias**  
 - 🎓 **Linguagens**: Python, Java, SQL  
 - 📊 **Ferramentas**: Power BI, Excel  
-- 📚 **Bootcamp / Cursos**: Santander Bootcamp Cibersegurança #2 e Bradesco Java Cloud (Cursando), Amazon AWS  Cloud Practitioner CLF-C02 (Cursando)
+- 📚 **Bootcamp / Cursos**: Santander Bootcamp Cibersegurança #2
+-  Bradesco Java Cloud (Cursando)
+-  Amazon AWS  Cloud Practitioner CLF-C02 (Cursando)
 - 🔧 **Outras tecnologias**: Kali Linux, Github
 
 ---
