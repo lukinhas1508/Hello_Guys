@@ -2,15 +2,15 @@
 ### EU SOU LUCAS 
 🎓 Estudante de Ciências da Computação na UNIP  
 💻 Apaixonado por tecnologia, desenvolvimento e resolução de problemas  
-📊 Interessado em Cibersegurança, Data Science, Desenvolvimento de Software, Cloud Computing e AWS
+📊 Interessado em Desenvolvimento de Software, Cloud Computing(Azure e AWS)
 
 ---
 
 **🚀 Habilidades e Tecnologias**  
 - 🎓 **Linguagens**: Python, Java, SQL  
 - 📊 **Ferramentas**: Power BI, Excel  
-- 🔐 **Cibersegurança**: Santander Bootcamp Cibersegurança #2  
-- 🔧 **Outras tecnologias**: Kali Linux, Git
+- 📚 **Bootcamp / Cursos**: Santander Bootcamp Cibersegurança #2 e Bradesco Java Cloud (Cursando), Amazon AWS  Cloud Practitioner CLF-C02 (Cursando)
+- 🔧 **Outras tecnologias**: Kali Linux, Github
 
 ---
 
