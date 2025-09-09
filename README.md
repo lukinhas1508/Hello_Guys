@@ -11,13 +11,13 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Medium%20Skin%20Tone.png" width="25" height="25" /> I always try to be my best version and learn new things.<br />
 
 
-<img src="/lineBar.png" width="100%" height="8px"/>
+<img src="./.github/lineBar.png" width="100%" height="8px"/>
 
 ## &nbsp;My Stacks
 
  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,java,python,azure,aws,git,github&theme=dark" />
 
-<img src="/lineBar.png" width="100%" height="8px"/>
+<img src="./.github/lineBar.png" width="100%" height="8px"/>
 
 ## &nbsp;Contact Me
 
